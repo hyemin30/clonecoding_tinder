@@ -1,4 +1,14 @@
 ## cloneCoding - tinder
-- 기본 dependency 및 패키지 세팅하였습니다.
-- 작업 진행하실 때, dev 브랜치에서 작업할 브랜치 따셔서 작업해 주시면 감사하겠습니다!
-- dev로 push 하실때 pr 주시거나 push 하셨다고 말씀해 주시면 감사하겠습니다!
+
+## 주요기능
+거리와 성별에 따른 회원 추천, 좋아요, 회원매칭, 매칭된 회원과 1:1 댓글방 생
+
+## ERD
+![image](https://user-images.githubusercontent.com/116478121/220059067-b73dbf90-e417-4d98-bba0-9b3015e3d58f.png)
+
+## API 설계
+https://www.notion.so/a768a45ea6d7421599ad407f8d23c0cb?v=51c40d2a226f4b308f0e2585556de61d&pvs=4
+
+![image](https://user-images.githubusercontent.com/116478121/220059443-e1309421-1a8f-4231-9d5d-95259daebc17.png)
+![image](https://user-images.githubusercontent.com/116478121/220059453-c99c6444-2150-4ed3-8533-4874056da31d.png)
+
