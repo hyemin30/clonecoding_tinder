@@ -3,6 +3,12 @@
 ## 주요기능
 거리와 성별에 따른 회원 추천, 좋아요, 회원매칭, 매칭된 회원과 1:1 댓글방 생성
 
+## 인프라 구조
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d64da2f3-913d-4004-be3c-61cb9600f372/Untitled.png)
+
+## 프로젝트 중점사항
+- **ㅏㅏㅏ**
+
 ## ERD
 ![image](https://user-images.githubusercontent.com/116478121/220059067-b73dbf90-e417-4d98-bba0-9b3015e3d58f.png)
 
